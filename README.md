@@ -65,21 +65,6 @@ CREATE TABLE
 
 CREATE PRIMARY/FOREIGN KEYS
 
-Without tables: Connect to an existing database and extract tables.
-
-7. Additional Features
-
-User-friendly interface: Select tables, choose functions, and set validation options.
-
-Save generated code as text files: Each class or function in a separate .cs file.
-
-Presentation Layer generation: Ready-to-use Forms/UI connected to BL and DAL.
-
-Flexible and customizable: Users can modify generated code or database structure.
-
-Export SQL scripts: Generate a ready-to-run SQL file for any server.
+Without tables: Connect to an existing database and extract tables
 
 
-Numbers
-
-Required fields (Not Null)
